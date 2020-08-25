@@ -5,43 +5,43 @@ This course aims to provide students with an overview of the theoretical and pra
 
 Packages: tidyverse, datatable, 
 
-Week 1 Introduction to Data Analysis 
-Practice: Hello, World!
+Week 1 Introduction to Data Analysis  
+  Practice: Hello, World!
 
-Week 2 Probability 
+Week 2 Probability  
 Practice: Data Structure and Types 
 
-Week 3 Descriptive Data Analysis and Visualziation
+Week 3 Descriptive Data Analysis and Visualziation  
 Practice: Importing and Collecting Data 
 
-Week 4 Probability Distribution 
+Week 4 Probability Distribution  
 Practice: Data Formatting and Transformation 
 
-Week 5 Sampling Distribution
+Week 5 Sampling Distribution  
 Practice: Generating Sampling Distributions and CLT
 
-Week 6 Hypothesis Testing for Means
+Week 6 Hypothesis Testing for Means  
 Practice:  
 
-Week 7 Hypothesis Testing for Proportions
+Week 7 Hypothesis Testing for Proportions  
 Practice: 
 
-Week 8 Correlation and Testing 
+Week 8 Correlation and Testing   
 Practice: 
 
-Week 9 ANOVA
+Week 9 ANOVA  
 Practice: 
 
-Week 10 Simple Linear Regression -Introduction 
+Week 10 Simple Linear Regression -Introduction   
 Practice: 
 
-Week 11 Simple Linear Regression - Assumptions and Diagnostics 
+Week 11 Simple Linear Regression - Assumptions and Diagnostics  
 Practice: 
 
-Week 12 Simple Linear Regression -Interpretation 
+Week 12 Simple Linear Regression -Interpretation  
 Practice: 
 
-Week 13 Logistic Regression - Classifying 
+Week 13 Logistic Regression - Classifying  
 Practice:
 
 points of revision: (1)the tools? (2)getting familair with the R environment, packages (3) visualization
