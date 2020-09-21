@@ -45,14 +45,14 @@ Once getting a solid understanding of the probability theory, we will move on to
 
 ## Lecture Notes (slides will be added after each lecture)
 
-### [**00 - Introduction and Data Science**](lecture\00)
+### [**00 - Introduction and Data Science**]()
 
-Data science is an  discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of this course is to help you develope skillset in R that will allow you to performe an analysis. 
+Data science is a discipline that allows you to turn raw data into understanding, insight, and knowledge. The goal of this course is to help you develope skillset in R that will allow you to performe an analysis. 
 
 - Getting R (Rstudio, environment, packages and CRAN)
 - Introduction to Version Control with Git and Github
 
-**Reading**: [CH1, CH2, CH3 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [Preface of Grolemund and  2016](https://r4ds.had.co.nz/) 
+**Reading**: [1, 2, 3 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [Preface of Grolemund and Wickham 2016](https://r4ds.had.co.nz/) 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -64,7 +64,7 @@ To start programming in R, this class will help you learn the foundational compo
 - Data Structures (names, values, vectors) 
 - Subsetting
 
-**Reading**: [CH4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH11.6 of Wickham 2015](https://adv-r.hadley.nz/)
+**Reading**: [4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [11.6 of Wickham 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
@@ -77,7 +77,7 @@ Loops are used in programming to repeat a specific block of code. In this class,
 - Control Statements (loops and iteration)
 - Debugging and Condition Handling
 
-**Reading**: [CH8, CH9  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH9 of Hadley 2015](https://adv-r.hadley.nz/)
+**Reading**: [8, 9  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [9 of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
@@ -89,7 +89,7 @@ The class starts by showing a motivating example, removing redundancy and duplic
 - List / Vector Functions (`apply()`, `lapply()`, `sapply()`, and `tapply()`)
 - Manipulating Matrices and Data Frames
 
-**Reading**: [CH11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH10, CH11  of Hadley 2015](https://adv-r.hadley.nz/)
+**Reading**: [11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [10, 11  of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
@@ -99,26 +99,30 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 - `lattice` pacakge
 - ggplot2 and ggplot2 Package Ecosystem
 
-**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
+**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**05 - Visialization ⅠⅠ**]()
+
 - Interactive Graphics & Maps
-- Share:  \LaTeX Basics, R Markdown Documents and Shiny 
+- Share: \LaTeX Basics, R Markdown Documents and Shiny 
 - R Server + `Tableau`
 
-**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
+**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
+
 **Slides**: [html]() | [pdf]() 
 
 
 ### [**06 - Manipulation and Data Management**]()
+
 We will covere a variety of methods for importing and exporting data in R environment.
 
 - Importing & Exporting Data
 - Tidy and Relational Data
 - Data Manipulation 
 
-**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
+**Reading**: [6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [10, 11 of Wickham and Grolemund 2016]() | [4, 5  of Kabacoff 2011]() 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -129,21 +133,29 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Tidyverse & Functional Programming
 - Pipe, Functions, Iteration and Beyond!
 
-**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
+**Reading**: [6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [14-17 of Wickham and Grolemund 2016](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
 
 ### [**08 - Basic Statistics**]()
+
+This class covers descriptive statistics, frequency and contingency tables and essential command math functions commonly used in R.
+
 - Math Functions in R
 - Descriptive Statistics 
 
-**Reading**: [CH14, CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)
+**Reading**: [14, 15 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [7.1, 7.2 of Kabacoff 2011]() 
 
 **Slides**: [html]() | [pdf]() 
 
 ### [**09 - Probability Distribution**]()
+This class cover using R to handles all the basic necessities of statistics, including drawing random numbers and calculating distribution values (the focus of this chapter), means, variances, maxmima and minima, correlation.
 
-**Reading**: []() 
+- Normal Distribution
+- Binomial Distribution
+- Poisson Distribution
+
+**Reading**: [14  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 **Slides**: [html]() | [pdf]() 
 
 ### [**10 - Hypothesis Testing**]()
@@ -151,62 +163,69 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Hypothesis Testing for Means
 - Hypothesis Testing for Proportions
 
-**Reading**: [CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+**Reading**: [15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 
 **Slides**: [html]() | [pdf]() 
 
 ### [**11 - Sampling Distribution**]()
 
-**Reading**: [CH15  of Lander 2017](https://socviz.co/) 
+**Reading**: [15  of Lander 2017](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
 
-### [**12 - Correlation, Testing and ANOVA**]()
+### [**12 - Correlation, Testing**]()
 
-**Reading**: []() 
+- Correlation and Covariance
+- T-Tests
+- Examining Relationships using Visualization
+
+**Reading**: [7.2-3 of Kabacoff 2011]() | [3.2 of John Fox and Sanford Weisberg 2019]() | [15.3  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 
 **Slides**: [html]() | [pdf]() 
 
-### [**13 - Regression Ⅰ:  Basic Linear Regression**]()
+### [**13 - Analysis of Variance**]()
+This class covers how to use R to model basic experimental designs, fitting and interpreting ANOVA type models, and evaluating model assumptions
+
+- One-way ANOVA and One-way ANCOVA
+- Two-way factorial ANOVA
+
+**Reading**: [9 of Kabacoff 2011]() 
+
+**Slides**: [html]() | [pdf]() 
+
+### [**14 - Regression Ⅰ:  Basic Linear Regression**]()
+
 This class will cover fitting and interpreting linear models,  evaluating model assumptions, selecting among competing models. 
 
 - Introduction and Assumptions
 - Diagnostics and Interpretation
 - Formatting the Estimates in R: `broom`,`stargazer` and `summarytools` packages
 
-**Reading**:  [CH8, CH9, CH10, CH11  of Kabacoff 2011]() 
+**Reading**:  [8 of Kabacoff 2011]() | [4, 5 of John Fox and Sanford Weisberg 2019]()
 
 **Slides**: [html]() | [pdf]() 
 
-### [**14 - Regression ⅠⅠ: Generalized Linear Models**]()
+### [**15 - Regression ⅠⅠ: Generalized Linear Models**]()
 
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
 - Model Fit and Regression Siagnostics
 
-**Reading**: [CH13 of of Kabacoff 2011]()  
+**Reading**: [13 of of Kabacoff 2011]() | [6 of John Fox and Sanford Weisberg 2019]()
 
 **Slides**: [html]() | [pdf]() 
 
-### [**15 - Introduction to Machine Learning**]()
+### [**16 - Additional Topic: Introduction to Machine Learning**]()
 
-This class briefly introduces what machine learning is, supervised vs. unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression. Later, we also cover the application of  
-the Tidyverse on Tidymodels framework, from pre-processing  (`rsample` and `recipes` packages), model training (`parsnip` package), model validation (`yardstick` packages).
+This class briefly introduces what machine learning is, supervised vs unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression. Later, we plan to cover the application of the Tidyverse on Tidymodels framework, from pre-processing  (`rsample` and `recipes` packages), model training (`parsnip` package), model validation (`yardstick` packages).
 
 - Introduction to Machine Learning
 - Tidying and Manipulating Data with the Tidyverse
 - Machine Learning with Tidymodels framework
 
-rsample - Different types of re-samples
-recipes - Transformations for model data pre-processing
-parnip - A common interface for model creation
-yardstick - Measure model performance
-
-
 **Reading**: [PART Ⅰ of of Rhys 2019](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
 
 **Slides**: [html]() | [pdf]() 
-
 
 
 
