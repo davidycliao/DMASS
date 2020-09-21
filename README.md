@@ -82,7 +82,7 @@ Loops are used in programming to repeat a specific block of code. In this class,
 
 **Slides**: [html]() | [pdf]() 
 
-### [**03 - Functional Programming Ⅰ: Basic R**]()
+### [**03 - Functional Programming Ⅰ: ___Base R___**]()
 
 The class starts by showing a motivating example, removing redundancy and duplication in code used to clean and summarise data. We will focus onthree building blocks of functional programming: ___anonymous functions___, ___closures (functions written by functions)___, and ___lists of functions___. We will learn how to easily extract, summarize, and manipulate lists and how to export the data to desired object, be it another list, a vector.
 
