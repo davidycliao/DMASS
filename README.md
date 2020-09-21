@@ -219,7 +219,7 @@ This class covers formulating a generalized linear model, predicting categorical
 
 ### [**16 - Additional Topic: Introduction to Machine Learning**]()
 
-This class briefly introduces what machine learning is, supervised vs unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression. Later, we plan to cover the application of the Tidyverse on Tidymodels framework, from pre-processing  (`rsample` and `recipes` packages), model training (`parsnip` package), model validation (`yardstick` packages).
+This class briefly introduces what machine learning is, supervised vs unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression. Later, we plan to cover the application of the Tidyverse on Tidymodels framework, from pre-processing  (`rsample` and `recipes` packages), model training (`parsnip` package), model validation (`yardstick` package).
 
 - Introduction to Machine Learning
 - Tidying and Manipulating Data with the Tidyverse
