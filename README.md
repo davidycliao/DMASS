@@ -90,8 +90,8 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 - Basic Graphics
 - ggplot2 and ggplot2 Package Ecosystem
 - Interactive Graphics & Maps
-- R server + `Tabluea`
-- Additionals: Rmarkdown and Basic \LaTeX
+- R Server + `Tableau`
+- Additionals: Rmarkdown and $\LaTeX$ Basics
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
