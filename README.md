@@ -40,6 +40,9 @@ This course aims to provide students with an overview of the theoretical and pra
 
 <br/>
 
+
+<br/>
+
 ## Lecture Notes (slides will be added after each lecture)
 
 ### [**00 - Introduction and Data Science**]()
@@ -47,9 +50,10 @@ This course aims to provide students with an overview of the theoretical and pra
 - Getting R (Rstudio, environment, packages and CRAN)
 - Introduction to Version Control with Git and Github
 
-**Reading**: [CH1, CH2, CH3 of Lander](https://adv-r.hadley.nz/control-flow.html))  
+**Reading**: [CH1, CH2, CH3 of Lander](https://adv-r.hadley.nz/control-flow.html)  
 
 **Slides**: [html]() | [pdf]() 
+
 
 ### [**01 - Programing in R Ⅰ**]()
 
@@ -58,9 +62,10 @@ To start programming in R, this class will help you learn the foundational compo
 - Data Structures (names, values, vectors) 
 - Subsetting
 
-**Reading**: [CH4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH11.6 of Wickham 2015](https://adv-r.hadley.nz/)
+**Reading**: [CH4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH11.6 of Wickham 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
+
 
 ### [**02 - Programing in R ⅠⅠ**]()
 Loops are used in programming to repeat a specific block of code. In this class, you will learn to how to create functions and loop, or combine them together for analysis in R programming.
@@ -69,21 +74,26 @@ Loops are used in programming to repeat a specific block of code. In this class,
 - Control Statements (loops and iteration)
 - Debugging and Condition Handling
 
-**Reading**: [CH8, CH9  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH9 of Hadley 2015](https://adv-r.hadley.nz/)
+**Reading**: [CH8, CH9  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH9 of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
+
+
 
 ### [**03 - Functional Programming Ⅰ: Basic R**]()
 
 The class starts by showing a motivating example, removing redundancy and duplication in code used to clean and summarise data. We will focus onthree building blocks of functional programming: ___anonymous functions___, ___closures (functions written by functions)___, and ___lists of functions___. We will learn how to easily extract, summarize, and manipulate lists and how to export the data to desired object, be it another list, a vector.
 
+
 - Anonymous Functions
 - List / Vector Functions (`apply()`, `lapply()`, `sapply()`, and `tapply()`)
 - Manipulating Matrices and Data Frames
 
-**Reading**: [CH11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Hadley 2015](https://adv-r.hadley.nz/)
+**Reading**: [CH11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH10, CH11  of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
+
+
 
 ### [**04 - Visialization**]()
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
@@ -91,12 +101,11 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 - ggplot2 and ggplot2 Package Ecosystem
 - Interactive Graphics & Maps
 - R Server + `Tableau`
-- Additionals: Rmarkdown and $\LaTeX$ Basics
+- Additionals: Rmarkdown and \LaTeX Basics
 
-**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
+**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
 **Slides**: [html]() | [pdf]() 
-
 
 ### [**05 - Manipulation and Data Management**]()
 We will covere a variety of methods for importing and exporting data in R environment.
@@ -105,7 +114,7 @@ We will covere a variety of methods for importing and exporting data in R enviro
 - Tidy and Relational Data
 - Data Manipulation 
 
-**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
+**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -116,10 +125,9 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Tidyverse & Functional Programming
 - Pipe, Functions, Iteration and Beyond!
 
-**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
+**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
-
 
 ### [**06 - Basic Statistics**]()
 - Math Functions in R
@@ -129,11 +137,9 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 
 **Slides**: [html]() | [pdf]() 
 
-
 ### [**07 - Probability Distribution**]()
 
 **Reading**: []() 
-
 **Slides**: [html]() | [pdf]() 
 
 ### [**08 - Hypothesis Testing**]()
@@ -150,7 +156,6 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 **Reading**: [CH15  of Lander 2017](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
-
 
 ### [**10 - Correlation, Testing and ANOVA**]()
 
@@ -169,9 +174,8 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 
 **Slides**: [html]() | [pdf]() 
 
-
-
 ### [**12 - Generalized Linear Models**]()
+
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
 - Model Fit and Regression Siagnostics
@@ -180,9 +184,8 @@ This class covers formulating a generalized linear model, predicting categorical
 
 **Slides**: [html]() | [pdf]() 
 
-
-
 ### [**13 - Introduction to Machine Learning**]()
+
 This class briefly introduces what machine learning is, supervised vs. unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression
 
 - Introduction to Machine Learning
