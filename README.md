@@ -112,6 +112,7 @@ We will covere a variety of methods for importing and exporting data in R enviro
 - Data Manipulation 
 
 **Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -124,6 +125,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Pipe, Functions, Iteration and Beyond!
 
 **Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -138,6 +140,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 ### [**07 - Probability Distribution**]()
 
 **Reading**: []() 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**08 - Hypothesis Testing**]()
@@ -146,17 +149,20 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Hypothesis Testing for Proportions
 
 **Reading**: [CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**09 - Sampling Distribution**]()
 
 **Reading**: [CH15  of Lander 2017](https://socviz.co/) 
+
 **Slides**: [html]() | [pdf]() 
 
 
 ### [**10 - Correlation, Testing and ANOVA**]()
 
 **Reading**: []() 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**11 - Linear Regression**]()
