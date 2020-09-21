@@ -1,7 +1,8 @@
-# Data Management and Analysis <br> for Social Sciences <img src="logo/UMassAmherst.png" width="190" height= "55" align="right" />  <br />  
+# Data Management and Analysis <br> for Social Sciences <img src="logo/UMassAmherst.png" width="200" height= "75" align="right" />  <br />  
 
-**Data Management and Analysisfor Social Sciences __Winter 2021__**, Instructors: [***Shih-chan Dai***](https://polsci.umass.edu/people/shih-chan-dai) and [***David,Yen-Chieh Liao***](https://yl17124.github.io/) 
+**Data Management and Analysisfor Social Sciences Winter 2021**, Instructors: [***Shih-chan Dai***](https://polsci.umass.edu/people/shih-chan-dai) and [***David,Yen-Chieh Liao***](https://yl17124.github.io/) 
 
+<br/>
 
 <div style="text-align: justify">
 
