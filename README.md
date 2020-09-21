@@ -41,7 +41,7 @@ This course aims to provide students with an overview of the theoretical and pra
 
 ## Lecture Notes (slides will be added after each lecture)
 
-### [**00 - Introduction and Data Science **]()
+### [**00 - Introduction and Data Science**]()
 
 - Getting R (Rstudio, environment, packages and CRAN)
 - Introduction to Version Control with Git and Github
@@ -51,7 +51,7 @@ This course aims to provide students with an overview of the theoretical and pra
 **Slides**: [html]() | [pdf]() 
 
 
-### [**01 - Programing in R Ⅰ **]()
+### [**01 - Programing in R Ⅰ**]()
 
 To start programming in R, this class will help you learn the foundational components of programing and data structrue in R.
 - Basic R (math, variables, data types, list, matrices, arrays)
@@ -63,7 +63,7 @@ To start programming in R, this class will help you learn the foundational compo
 **Slides**: [html]() | [pdf]() 
 
 
-### [**02 - Programing in R ⅠⅠ **]()
+### [**02 - Programing in R ⅠⅠ**]()
 Loops are used in programming to repeat a specific block of code. In this class, you will learn to how to create functions and loop, or combine them together for analysis in R programming.
 
 - Writing R Functions
@@ -135,7 +135,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 **Slides**: [html]() | [pdf]() 
 
 
-### [**07 - Probability Distribution **]()
+### [**07 - Probability Distribution**]()
 
 **Reading**: []() 
 **Slides**: [html]() | [pdf]() 
@@ -171,7 +171,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 
 
 
-### [**12 - Generalized Linear Models **]()
+### [**12 - Generalized Linear Models**]()
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
 - Model Fit and Regression Siagnostics
