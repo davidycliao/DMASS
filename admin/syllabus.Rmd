@@ -124,6 +124,7 @@ We will covere a variety of methods for importing and exporting data in R enviro
 - Data Manipulation 
 
 **Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -136,6 +137,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Pipe, Functions, Iteration and Beyond!
 
 **Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -144,6 +146,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Descriptive Statistics 
 
 **Reading**: [CH14, CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -158,17 +161,20 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Hypothesis Testing for Proportions
 
 **Reading**: [CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**09 - Sampling Distribution**]()
 
 **Reading**: [CH15  of Lander 2017](https://socviz.co/) 
+
 **Slides**: [html]() | [pdf]() 
 
 
 ### [**10 - Correlation, Testing and ANOVA**]()
 
 **Reading**: []() 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**11 - Linear Regression**]()
@@ -179,6 +185,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 - Formatting the Estimates: `broom`,`stargazer` and `summarytools` packages
 
 **Reading**:  [CH8, CH9, CH10, CH11  of Kabacoff 2011]() 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -201,6 +208,7 @@ This class briefly introduces what machine learning is, supervised vs. unsupervi
 - Tidying and Manipulating Data with the Tidyverse
 
 **Reading**: [PART Ⅰ of of Rhys 2019](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
+
 **Slides**: [html]() | [pdf]() 
 
 

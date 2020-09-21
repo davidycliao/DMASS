@@ -38,7 +38,6 @@ This course aims to provide students with an overview of the theoretical and pra
 - [___ggplot2: Elegant Graphics for Data Analysis___, 2016, Hadley Wickham, Springer](https://ggplot2-book.org/)
 - [___R in Action Data: Analysis and Graphics with R___, 2011, Robert I. Kabacoff, Manning Publication](https://www.manning.com/books/r-in-action)
 
-
 <br/>
 
 ## Lecture Notes (slides will be added after each lecture)
@@ -52,7 +51,6 @@ This course aims to provide students with an overview of the theoretical and pra
 
 **Slides**: [html]() | [pdf]() 
 
-
 ### [**01 - Programing in R Ⅰ**]()
 
 To start programming in R, this class will help you learn the foundational components of programing and data structrue in R.
@@ -63,7 +61,6 @@ To start programming in R, this class will help you learn the foundational compo
 **Reading**: [CH4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH11.6 of Wickham 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
-
 
 ### [**02 - Programing in R ⅠⅠ**]()
 Loops are used in programming to repeat a specific block of code. In this class, you will learn to how to create functions and loop, or combine them together for analysis in R programming.
@@ -76,12 +73,9 @@ Loops are used in programming to repeat a specific block of code. In this class,
 
 **Slides**: [html]() | [pdf]() 
 
-
-
 ### [**03 - Functional Programming Ⅰ: Basic R**]()
 
 The class starts by showing a motivating example, removing redundancy and duplication in code used to clean and summarise data. We will focus onthree building blocks of functional programming: ___anonymous functions___, ___closures (functions written by functions)___, and ___lists of functions___. We will learn how to easily extract, summarize, and manipulate lists and how to export the data to desired object, be it another list, a vector.
-
 
 - Anonymous Functions
 - List / Vector Functions (`apply()`, `lapply()`, `sapply()`, and `tapply()`)
@@ -90,8 +84,6 @@ The class starts by showing a motivating example, removing redundancy and duplic
 **Reading**: [CH11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
-
-
 
 ### [**04 - Visialization**]()
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
@@ -117,8 +109,6 @@ We will covere a variety of methods for importing and exporting data in R enviro
 
 **Slides**: [html]() | [pdf]() 
 
-
-
 ### [**06 - Functional Programming ⅠⅠ: Tidyverse Fundamentals**]()
 
 This class covers fundamentals of the Tidyverse, tidy data and how to use popular functional packages such as tibble, dplyr, ggplot2, tidyr, and purrr packages for data analysis.
@@ -136,6 +126,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Descriptive Statistics 
 
 **Reading**: [CH14, CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -175,6 +166,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 - Formatting the Estimates: `broom`,`stargazer` and `summarytools` packages
 
 **Reading**:  [CH8, CH9, CH10, CH11  of Kabacoff 2011]() 
+
 **Slides**: [html]() | [pdf]() 
 
 
@@ -197,6 +189,7 @@ This class briefly introduces what machine learning is, supervised vs. unsupervi
 - Tidying and Manipulating Data with the Tidyverse
 
 **Reading**: [PART Ⅰ of of Rhys 2019](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
+
 **Slides**: [html]() | [pdf]() 
 
 
