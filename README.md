@@ -1,4 +1,4 @@
-# Data Management and Analysis <br> for Social Sciences <img src="logo/UMassAmherst.png" width="200" height= "75" align="right" />  <br />  
+# Data Management and Analysis <br> for Social Sciences <img src="logo/UMassAmherst.png" width="220" height= "95" align="right" />  <br />  
 
 **Data Management and Analysisfor Social Sciences Winter 2021**, Instructors: [***Shih-chan Dai***](https://polsci.umass.edu/people/shih-chan-dai) and [***David,Yen-Chieh Liao***](https://yl17124.github.io/) 
 
@@ -12,7 +12,7 @@ This course aims to provide students with an overview of the theoretical and pra
 
 <br/>
 
-## Schedule
+## Schedule __TBA__
 
 **Lecture** 
 
@@ -20,8 +20,6 @@ This course aims to provide students with an overview of the theoretical and pra
 
 **Office Hours**
 
-- **Shih-chan Dai**
-- **David, Yen-Chieh Liao**
 
 <br/>
 
