@@ -98,7 +98,7 @@ The class starts by showing a motivating example, removing redundancy and duplic
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
 - Basic Graphics
 - `lattice` pacakge
-- ggplot2 and ggplot2 Package Ecosystem
+- `ggplot2` and ggplot2's Package Ecosystem
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
@@ -107,8 +107,8 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 ### [**05 - Visialization ⅠⅠ**]()
 
 - Interactive Graphics & Maps
-- Share: \LaTeX Basics, R Markdown Documents and Shiny 
-- R Server + `Tableau`
+- Share: $\LaTeX$ Basics, R Markdown Documents and Shiny 
+- `R Server` + `Tableau`
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
