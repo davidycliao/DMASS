@@ -28,9 +28,9 @@ Once getting a solid understanding of the probability theory, we will move on to
 ## Books
 ### Programing Application in R
 - [___R for Data Science : Import, Tidy, Transform, Visualize, and Model Data___, Garrett Grolemund and Hadley Wickham, 2016](https://r4ds.had.co.nz/)
-- [___Advanced R___, Hadley Wickham 2015, Howard Rosenthal, CRC](https://adv-r.hadley.nz/)  
+- [___Advanced R___, Hadley Wickham, 2015, Howard Rosenthal, CRC](https://adv-r.hadley.nz/)  
 - [___Hands-On Programming with R___, 1st Edition, Garrett Grolemund, 2014, O'Reilly Media](https://socviz.co/)
-- [___An Introduction to Statistical Learning with Applications in R___, Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2013](https://www-bcf.usc.edu/~gareth/ISL/) 
+
 
 ### Data Analysis and Statistical Learning
 - [___An R Companion to Applied Regression___, John Fox and Sanford Weisberg, 2019, SAGE](https://us.sagepub.com/en-us/nam/an-r-companion-to-applied-regression/book246125) 
@@ -38,6 +38,7 @@ Once getting a solid understanding of the probability theory, we will move on to
 - [___R in Action Data: Analysis and Graphics with R___, Robert I. Kabacoff, 2011, Manning Publication](https://www.manning.com/books/r-in-action)
 - [___The Elements of Statistical Learning___, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2009, Springer](http://web.stanford.edu/~hastie/ElemStatLearn/) 
 - [___Machine Learning with R, the tidyverse, and mlr___, Hefin I. Rhys, 2019, Manning Publication](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
+- [___An Introduction to Statistical Learning with Applications in R___, Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2013](https://www-bcf.usc.edu/~gareth/ISL/) 
 - [___ggplot2: Elegant Graphics for Data Analysis___, Hadley Wickham, 2016, Springer Publication](https://ggplot2-book.org/)
 
 <br/>
