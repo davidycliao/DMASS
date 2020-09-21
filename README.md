@@ -12,7 +12,7 @@ This course aims to provide students with an overview of the theoretical and pra
 
 <br/>
 
-## Schedule __TBA__
+## Schedule ___TBA___
 
 **Lecture** 
 
