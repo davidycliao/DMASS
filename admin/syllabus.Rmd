@@ -8,7 +8,7 @@ output:
   html_notebook: default
   html_document:
     df_print: paged
-subtitle: "Data Management and Analysis for Social Sciences"
+subtitle: "2021 Data Management and Analysis for Social Sciences"
 urlcolor: blue
 ---
   
@@ -50,8 +50,6 @@ Once getting a solid understanding of the probability theory, we will move on to
 - [___ggplot2: Elegant Graphics for Data Analysis___, Hadley Wickham, 2016, Springer Publication](https://ggplot2-book.org/)
 
 
-<br/>
-
 
 ## Lecture Notes (slides will be added after each lecture)
 
@@ -91,7 +89,7 @@ Loops are used in programming to repeat a specific block of code. In this class,
 
 **Slides**: [html]() | [pdf]() 
 
-### [**03 - Functional Programming Ⅰ: Basic R**]()
+### [**03 - Functional Programming Ⅰ: ___Base R___**]()
 
 The class starts by showing a motivating example, removing redundancy and duplication in code used to clean and summarise data. We will focus onthree building blocks of functional programming: ___anonymous functions___, ___closures (functions written by functions)___, and ___lists of functions___. We will learn how to easily extract, summarize, and manipulate lists and how to export the data to desired object, be it another list, a vector.
 
@@ -107,7 +105,7 @@ The class starts by showing a motivating example, removing redundancy and duplic
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
 - Basic Graphics
 - `lattice` pacakge
-- ggplot2 and ggplot2 Package Ecosystem
+- `ggplot2` and ggplot2's Package Ecosystem
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
@@ -116,8 +114,8 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 ### [**05 - Visialization ⅠⅠ**]()
 
 - Interactive Graphics & Maps
-- Share: \LaTeX Basics, R Markdown Documents and Shiny 
-- R Server + `Tableau`
+- Share: `LaTeX` Basics,` R Markdown` Documents and `Shiny` 
+- `R Server` + `Tableau`
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
@@ -166,6 +164,7 @@ This class cover using R to handles all the basic necessities of statistics, inc
 - Poisson Distribution
 
 **Reading**: [14  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**10 - Hypothesis Testing**]()
@@ -236,6 +235,8 @@ This class briefly introduces what machine learning is, supervised vs unsupervis
 **Reading**: [PART Ⅰ of of Rhys 2019](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
 
 **Slides**: [html]() | [pdf]() 
+
+
 
 
 

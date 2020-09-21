@@ -1,6 +1,6 @@
 # Data Management and Analysis <br> for Social Sciences <img src="logo/UMassAmherst.png" width="240" height= "120" align="right" />  <br />  
 
-**Data Management and Analysisfor Social Sciences Winter 2021**, Instructors: [***Shih-chan Dai***](https://polsci.umass.edu/people/shih-chan-dai) and [***David,Yen-Chieh Liao (University of Essex)***](https://yl17124.github.io/) 
+**2021 Data Management and Analysisfor Social Sciences**, Instructors: [***Shih-chan Dai***](https://polsci.umass.edu/people/shih-chan-dai) and [***David,Yen-Chieh Liao (University of Essex)***](https://yl17124.github.io/) 
 
 <br/>
 
@@ -107,7 +107,7 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 ### [**05 - Visialization ⅠⅠ**]()
 
 - Interactive Graphics & Maps
-- Share: $\LaTeX$ Basics, R Markdown Documents and Shiny 
+- Share: `LaTeX` Basics,` R Markdown` Documents and `Shiny` 
 - `R Server` + `Tableau`
 
 **Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [22 of Grolemund and Wickham 2016]() | [Hadley 2016](https://ggplot2-book.org/)
@@ -157,6 +157,7 @@ This class cover using R to handles all the basic necessities of statistics, inc
 - Poisson Distribution
 
 **Reading**: [14  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+
 **Slides**: [html]() | [pdf]() 
 
 ### [**10 - Hypothesis Testing**]()
