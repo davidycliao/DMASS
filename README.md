@@ -129,7 +129,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 
 **Slides**: [html]() | [pdf]() 
 
-### [**06 - Basic Statistics**]()
+### [**07 - Basic Statistics**]()
 - Math Functions in R
 - Descriptive Statistics 
 
@@ -137,12 +137,12 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 
 **Slides**: [html]() | [pdf]() 
 
-### [**07 - Probability Distribution**]()
+### [**08 - Probability Distribution**]()
 
 **Reading**: []() 
 **Slides**: [html]() | [pdf]() 
 
-### [**08 - Hypothesis Testing**]()
+### [**09 - Hypothesis Testing**]()
 
 - Hypothesis Testing for Means
 - Hypothesis Testing for Proportions
@@ -151,19 +151,19 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 
 **Slides**: [html]() | [pdf]() 
 
-### [**09 - Sampling Distribution**]()
+### [**10 - Sampling Distribution**]()
 
 **Reading**: [CH15  of Lander 2017](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
 
-### [**10 - Correlation, Testing and ANOVA**]()
+### [**11 - Correlation, Testing and ANOVA**]()
 
 **Reading**: []() 
 
 **Slides**: [html]() | [pdf]() 
 
-### [**11 - Linear Regression**]()
+### [**12 - Linear Regression**]()
 This class will cover fitting and interpreting linear models,  evaluating model assumptions, selecting among competing models. 
 
 - Introduction and Assumptions
@@ -174,7 +174,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 
 **Slides**: [html]() | [pdf]() 
 
-### [**12 - Generalized Linear Models**]()
+### [**13 - Generalized Linear Models**]()
 
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
@@ -184,7 +184,7 @@ This class covers formulating a generalized linear model, predicting categorical
 
 **Slides**: [html]() | [pdf]() 
 
-### [**13 - Introduction to Machine Learning**]()
+### [**14 - Introduction to Machine Learning**]()
 
 This class briefly introduces what machine learning is, supervised vs. unsupervised machine learning, how the Tidyverse play a part in training machine learning classification and regression
 
