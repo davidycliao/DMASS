@@ -8,7 +8,7 @@
 
 ## Course Description
 
-This course aims to provide students with an overview of the theoretical and practical foundations required for managing and analyzing data in R, especially those in social sciences. It starts with an introduction to foundational programming to functional programming, data types as well as basic concepts of statistics. We further will examine the different kinds of probability theory, probability distribution, and data-generating process. 
+This course aims to provide students with an overview of the theoretical and practical foundations required for managing and analyzing data in R, especially those in social sciences. It starts with an introduction to foundational programming to functional programming , data types as well as basic concepts of statistics. We further will examine the different kinds of probability theory, probability distribution, and data-generating process. 
 
 Once getting a solid understanding of the probability theory, we will move on to study hypothesis testing and model estimation. More importantly, this course will combine the theoretical content with a rich set of applications so that students can polish up their programming skills in R as well as apply what they learn in real-world cases.
 
