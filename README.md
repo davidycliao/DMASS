@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Data Management and Analysis <br>  for Social Sciences Winter 2021<img src="logo/Essex.jpg" width="180" height= "38" align="right" />   <img src="logo/UMassAmherst.png" width="190" height= "55" align="right" />   <br />  
 
 <div style="text-align: justify">
@@ -45,13 +44,12 @@ This course aims to provide students with an overview of the theoretical and pra
 ### [**00 - Introduction and Data Science **]()
 
 - Getting R (Rstudio, environment, packages and CRAN)
-- Introduction to Version Control with Git and Github [🔗](https://ourcodingclub.github.io/tutorials/git/)
+- Introduction to Version Control with Git and Github
 
-**Reading**: [CH1, CH2, CH3 of Lander](https://adv-r.hadley.nz/control-flow.html)  
+**Reading**: [CH1, CH2, CH3 of Lander](https://adv-r.hadley.nz/control-flow.html))  
 
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**01 - Programing in R Ⅰ **]()
 
@@ -60,11 +58,10 @@ To start programming in R, this class will help you learn the foundational compo
 - Data Structures (names, values, vectors) 
 - Subsetting
 
-**Reading**: [CH4 of Lander 2017]() | [CH11.6 of Wickham 2015]()
+**Reading**: [CH4 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH11.6 of Wickham 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**02 - Programing in R ⅠⅠ **]()
 Loops are used in programming to repeat a specific block of code. In this class, you will learn to how to create functions and loop, or combine them together for analysis in R programming.
@@ -73,11 +70,11 @@ Loops are used in programming to repeat a specific block of code. In this class,
 - Control Statements (loops and iteration)
 - Debugging and Condition Handling
 
-**Reading**: [CH8, CH9  of Lander 2017]() | [CH9 of Hadley 2015]()
+**Reading**: [CH8, CH9  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH9 of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
-----
+
 
 ### [**03 - Functional Programming Ⅰ: Basic R**]()
 
@@ -88,11 +85,11 @@ The class starts by showing a motivating example, removing redundancy and duplic
 - List / Vector Functions (`apply()`, `lapply()`, `sapply()`, and `tapply()`)
 - Manipulating Matrices and Data Frames
 
-**Reading**: [CH11  of Lander 2017]() | [CH10, CH11  of Hadley 2015]()
+**Reading**: [CH11  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Hadley 2015](https://adv-r.hadley.nz/)
 
 **Slides**: [html]() | [pdf]() 
 
-----
+
 
 ### [**04 - Visialization**]()
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
@@ -102,88 +99,77 @@ This class provides a comprehensive introduction on how to plot data with R’s 
 - R server + `Tabluea`
 - Additionals: Rmarkdown and Basic \LaTeX
 
-**Reading**: [CH7 of Lander 2017]() | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016]()
+**Reading**: [CH7 of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH 22 of Wickham and Grolemund 2016]() | [Hadley 2016](https://ggplot2-book.org/)
 
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**05 - Manipulation and Data Management**]()
 We will covere a variety of methods for importing and exporting data in R environment.
+
 - Importing & Exporting Data
 - Tidy and Relational Data
 - Data Manipulation 
 
-**Reading**: [CH6  of Lander 2017]() | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
+**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH10, CH11  of Wickham and Grolemund 2016]() | [CH4, CH5  of Kabacoff 2011]() 
 **Slides**: [html]() | [pdf]() 
 
-----
 
-### [**05 - Functional Programming ⅠⅠ: Tidyverse Fundamentals**]()
+
+### [**06 - Functional Programming ⅠⅠ: Tidyverse Fundamentals**]()
 
 This class covers fundamentals of the Tidyverse, tidy data and how to use popular functional packages such as tibble, dplyr, ggplot2, tidyr, and purrr packages for data analysis.
 
 - Tidyverse & Functional Programming
 - Pipe, Functions, Iteration and Beyond!
 
-**Reading**: [CH6  of Lander 2017]() | [CH14-CH17 of Wickham and Grolemund 2016]() 
+**Reading**: [CH6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)) | [CH14-CH17 of Wickham and Grolemund 2016](https://socviz.co/) 
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**06 - Basic Statistics**]()
 - Math Functions in R
 - Descriptive Statistics 
 
-**Reading**: [CH14, CH15  of Lander 2017]() 
+**Reading**: [CH14, CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html)
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**07 - Probability Distribution **]()
 
-
 **Reading**: []() 
 **Slides**: [html]() | [pdf]() 
-
-----
 
 ### [**08 - Hypothesis Testing**]()
 
 - Hypothesis Testing for Means
 - Hypothesis Testing for Proportions
 
-**Reading**: [CH15  of Lander 2017]() 
+**Reading**: [CH15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 **Slides**: [html]() | [pdf]() 
-
-----
 
 ### [**09 - Sampling Distribution**]()
 
-
-**Reading**: [CH15  of Lander 2017]() 
+**Reading**: [CH15  of Lander 2017](https://socviz.co/) 
 **Slides**: [html]() | [pdf]() 
 
-----
 
 ### [**10 - Correlation, Testing and ANOVA**]()
 
 **Reading**: []() 
 **Slides**: [html]() | [pdf]() 
 
-----
-
 ### [**11 - Linear Regression**]()
 This class will cover fitting and interpreting linear models,  evaluating model assumptions, selecting among competing models. 
 
 - Introduction and Assumptions
 - Diagnostics and Interpretation
-- Formatting the Estimatests: `broom`,`stargazer` and `summarytools` packages
+- Formatting the Estimates: `broom`,`stargazer` and `summarytools` packages
 
 **Reading**:  [CH8, CH9, CH10, CH11  of Kabacoff 2011]() 
 **Slides**: [html]() | [pdf]() 
 
-----
+
 
 ### [**12 - Generalized Linear Models **]()
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
@@ -191,9 +177,9 @@ This class covers formulating a generalized linear model, predicting categorical
 - Model Fit and Regression Siagnostics
 
 **Reading**: [CH13 of of Kabacoff 2011]() 
+
 **Slides**: [html]() | [pdf]() 
 
-----
 
 
 ### [**13 - Introduction to Machine Learning**]()
@@ -202,59 +188,10 @@ This class briefly introduces what machine learning is, supervised vs. unsupervi
 - Introduction to Machine Learning
 - Tidying and Manipulating Data with the Tidyverse
 
-**Reading**: [PART Ⅰ of of Rhys 2019]() 
+**Reading**: [PART Ⅰ of of Rhys 2019](https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr) 
 **Slides**: [html]() | [pdf]() 
 
 
 
 
 
-=======
-# DMASS
-Data Management and Analysis for Social Sciences (DMASS)
-
-This course aims to provide students with an overview of the theoretical and practical foundations required for managing and analyzing data, especially those in social sciences. It starts with an introduction to some basic ideas of statistics like probability, data structure, and data types.  will examine the different kinds of probability theory, probability distribution, and data-generating process. Once getting a solid understanding of the probability theory, we will move on to study hypothesis testing and model estimation. More importantly, this course will combine the theoretical content with a rich set of applications so that students can polish up their coding skills in R as well as apply what they learn in real-world cases. 
-
-Packages: tidyverse, datatable, 
-
-Week 1 Introduction to Data Analysis  
-  Practice: Hello, World!
-
-Week 2 Probability  
-Practice: Data Structure and Types 
-
-Week 3 Descriptive Data Analysis and Visualziation  
-Practice: Importing and Collecting Data 
-
-Week 4 Probability Distribution  
-Practice: Data Formatting and Transformation 
-
-Week 5 Sampling Distribution  
-Practice: Generating Sampling Distributions and CLT
-
-Week 6 Hypothesis Testing for Means  
-Practice:  
-
-Week 7 Hypothesis Testing for Proportions  
-Practice: 
-
-Week 8 Correlation and Testing   
-Practice: 
-
-Week 9 ANOVA  
-Practice: 
-
-Week 10 Simple Linear Regression -Introduction   
-Practice: 
-
-Week 11 Simple Linear Regression - Assumptions and Diagnostics  
-Practice: 
-
-Week 12 Simple Linear Regression -Interpretation  
-Practice: 
-
-Week 13 Logistic Regression - Classifying  
-Practice:
-
-points of revision: (1)the tools? (2)getting familair with the R environment, packages (3) visualization
->>>>>>> 2f94cccc23e31dff5136fdb4f58bcdcd13db3c39
