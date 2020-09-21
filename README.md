@@ -31,7 +31,6 @@ Once getting a solid understanding of the probability theory, we will move on to
 - [___Advanced R___, Hadley Wickham, 2015, Howard Rosenthal, CRC](https://adv-r.hadley.nz/)  
 - [___Hands-On Programming with R___, 1st Edition, Garrett Grolemund, 2014, O'Reilly Media](https://socviz.co/)
 
-
 ### Data Analysis and Statistical Learning
 - [___An R Companion to Applied Regression___, John Fox and Sanford Weisberg, 2019, SAGE](https://us.sagepub.com/en-us/nam/an-r-companion-to-applied-regression/book246125) 
 - [___R for Everyone: Advanced Analytics and Graphics___, 2nd Edition, Jared P. Lander, 2017, Addison-Wesley Data and Analytics](https://www.jaredlander.com/r-for-everyone/)
@@ -42,7 +41,6 @@ Once getting a solid understanding of the probability theory, we will move on to
 - [___ggplot2: Elegant Graphics for Data Analysis___, Hadley Wickham, 2016, Springer Publication](https://ggplot2-book.org/)
 
 <br/>
-
 
 ## Lecture Notes (slides will be added after each lecture)
 
@@ -69,7 +67,6 @@ To start programming in R, this class will help you learn the foundational compo
 
 **Slides**: [html]() | [pdf]() 
 
-
 ### [**02 - Programing in R ⅠⅠ**]()
 
 Loops are used in programming to repeat a specific block of code. In this class, you will learn to how to create functions and loop, or combine them together for analysis in R programming.
@@ -95,7 +92,9 @@ The class starts by showing a motivating example, removing redundancy and duplic
 **Slides**: [html]() | [pdf]() 
 
 ### [**04 - Visialization Ⅰ**]()
+
 This class provides a comprehensive introduction on how to plot data with R’s base graphics, ggplot2 as well as lattice. 
+
 - Basic Graphics
 - `lattice` pacakge
 - `ggplot2` and ggplot2's Package Ecosystem
@@ -150,6 +149,7 @@ This class covers descriptive statistics, frequency and contingency tables and e
 **Slides**: [html]() | [pdf]() 
 
 ### [**09 - Probability Distribution**]()
+
 This class cover using R to handles all the basic necessities of statistics, including drawing random numbers and calculating distribution values (the focus of this chapter), means, variances, maxmima and minima, correlation.
 
 - Normal Distribution
@@ -211,7 +211,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
-- Model Fit and Regression Siagnostics
+- Model Fit and Regression Diagnostics
 
 **Reading**: [13 of of Kabacoff 2011]() | [6 of John Fox and Sanford Weisberg 2019]()
 

@@ -130,7 +130,7 @@ We will covere a variety of methods for importing and exporting data in R enviro
 - Tidy and Relational Data
 - Data Manipulation 
 
-**Reading**: [6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [10, 11 of Wickham and Grolemund 2016]() | [4, 5  of Kabacoff 2011]() 
+**Reading**: [6 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [10, 11 of Wickham and Grolemund 2016]() | [4, 5  of Kabacoff 2011]() 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -141,7 +141,7 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 - Tidyverse & Functional Programming
 - Pipe, Functions, Iteration and Beyond!
 
-**Reading**: [6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [14-17 of Wickham and Grolemund 2016](https://socviz.co/) 
+**Reading**: [6 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [14-17 of Wickham and Grolemund 2016](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -163,7 +163,7 @@ This class cover using R to handles all the basic necessities of statistics, inc
 - Binomial Distribution
 - Poisson Distribution
 
-**Reading**: [14  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+**Reading**: [14 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -172,13 +172,13 @@ This class cover using R to handles all the basic necessities of statistics, inc
 - Hypothesis Testing for Means
 - Hypothesis Testing for Proportions
 
-**Reading**: [15  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
+**Reading**: [15 of Lander 2017](https://adv-r.hadley.nz/control-flow.html) 
 
 **Slides**: [html]() | [pdf]() 
 
 ### [**11 - Sampling Distribution**]()
 
-**Reading**: [15  of Lander 2017](https://socviz.co/) 
+**Reading**: [15 of Lander 2017](https://socviz.co/) 
 
 **Slides**: [html]() | [pdf]() 
 
@@ -204,7 +204,7 @@ This class covers how to use R to model basic experimental designs, fitting and 
 
 ### [**14 - Regression Ⅰ:  Basic Linear Regression**]()
 
-This class will cover fitting and interpreting linear models,  evaluating model assumptions, selecting among competing models. 
+This class will cover fitting and interpreting linear models, evaluating model assumptions, selecting among competing models. 
 
 - Introduction and Assumptions
 - Diagnostics and Interpretation
@@ -218,7 +218,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
 - Generalized linear models and the glm() function
-- Model Fit and Regression Siagnostics
+- Model Fit and Regression Diagnostics
 
 **Reading**: [13 of of Kabacoff 2011]() | [6 of John Fox and Sanford Weisberg 2019]()
 
