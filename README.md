@@ -14,6 +14,11 @@ Once getting a solid understanding of the probability theory, we will move on to
 
 <br/>
 
+## Syllabus
+The syllabus is available [here](admin/syllabus.pdf).
+
+<br/>
+
 ## Schedule ___TBA___
 
 **Lecture** 
@@ -42,7 +47,7 @@ Once getting a solid understanding of the probability theory, we will move on to
 
 <br/>
 
-## Lecture Notes (slides will be added after each lecture)
+## Lecture Notes (slides will be added before each lecture)
 
 ### [**00 - Introduction and Data Science**]()
 
@@ -132,6 +137,8 @@ This class covers fundamentals of the Tidyverse, tidy data and how to use popula
 
 - Tidyverse & Functional Programming
 - Pipe, Functions, Iteration and Beyond!
+- Functional Programming Tools
+- Additional: from `purrr` to `furrr` in parallel
 
 **Reading**: [6  of Lander 2017](https://adv-r.hadley.nz/control-flow.html) | [14-17 of Wickham and Grolemund 2016](https://socviz.co/) 
 
@@ -210,7 +217,7 @@ This class will cover fitting and interpreting linear models,  evaluating model 
 ### [**15 - Regression ⅠⅠ: Generalized Linear Models**]()
 
 This class covers formulating a generalized linear model, predicting categorical outcomes, and modeling count data.
-- Generalized linear models and the glm() function
+- Generalized linear models and the `glm()` function
 - Model Fit and Regression Diagnostics
 
 **Reading**: [13 of of Kabacoff 2011]() | [6 of John Fox and Sanford Weisberg 2019]()
